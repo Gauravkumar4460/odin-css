@@ -1,14 +1,13 @@
 .both {
-    font-size: 28px;
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
 }
 
-.both.first {
-    background-color: black;
-    color: white;
+.first {
+  background-color: black;
+  color: white;
 }
 
-.both.second {
-    background-color: yellow;
-    color: black;
+.second {
+  background-color: yellow;
 }
